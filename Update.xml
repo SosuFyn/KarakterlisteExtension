@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='geplpaolijbllnbheipgnicjphaejmjb'>
     <updatecheck
-      codebase='https://raw.githubusercontent.com/SosuFyn/KarakterlisteExtension/refs/heads/main/Update.xml'
+      codebase='https://raw.githubusercontent.com/SosuFyn/KarakterlisteExtension/refs/heads/main/Karakterlister-extension.crx'
       version='1.1' />
   </app>
 </gupdate>
