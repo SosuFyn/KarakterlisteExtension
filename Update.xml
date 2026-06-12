@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='geplpaolijbllnbheipgnicjphaejmjb'>
     <updatecheck
-      codebase='https://raw.githubusercontent.com/DITBRUGERNAVN/DITREPO/main/Browser%20extension.crx'
+      codebase='https://raw.githubusercontent.com/SosuFyn/KarakterlisteExtension/refs/heads/main/Update.xml'
       version='1.0' />
   </app>
 </gupdate>
